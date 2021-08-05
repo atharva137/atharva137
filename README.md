@@ -1,7 +1,7 @@
 ### Bonjour <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="20" height="20"> I'm [Atharva](https://atharva137.github.io/Atharva_Yawalkar/myPortfolio/)
 <img align='right' src='https://media.giphy.com/media/mFwqFZx1HxfQ4hwkz9/giphy.gif' width="230" height="100%">
 
- A learner, who everyday tries to grind his technical and programming skills in the house of Computer science. I am Coder with smooth coding skills which are among the renowned programing languages.<br>
+  learner, who everyday tries to grind his technical and programming skills in the house of Computer science. I am Coder with smooth coding skills which are among the renowned programing languages.<br>
 Self-learning Software Engineering and Full-Stack-Web-Developer through research and development.<br>
 Passionate about implementing and launching innovative projects.<br>
 
